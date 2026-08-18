@@ -19,9 +19,7 @@
 
 <br/>
 
-```bash
-sohan@lpu:~$ ./whoami.exe
-```
+
 
 ```yaml
 > INITIALIZING IDENTITY MODULE...
@@ -126,7 +124,7 @@ A continuously growing collection of algorithmic solutions and core language pra
 
 ## 🏆 Certifications & Achievements
 
-- 🥇 **Winner** — Full Stack Intelligence 1.0: A Coding Hackathon @ Lovely Professional University *(July '26)*
+-  **3rd Place** — Full Stack Intelligence 1.0: A Coding Hackathon @ Lovely Professional University *(July '26)*
 - 📜 **iamNeo Associated** — C Programming Language *(May '26)*
 - 📜 **AI Basics Course** — Infosys Springboard *(Mar '26)*
 - 📜 **C Programming Course** — Udemy *(Jan '26)*
@@ -148,11 +146,7 @@ A continuously growing collection of algorithmic solutions and core language pra
 
 <br/><br/>
 
-### 🏆 Trophy Case
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sohan-2807&no-frame=true&no-bg=true&theme=tokyonight&row=1&column=6" />
-
-<br/>
 
 ### 📈 Contribution Matrix
 
