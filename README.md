@@ -58,10 +58,8 @@ active_domains:
 
 **◈ DATA LAYER ◈**
 
-<img src="https://img.shields.io/badge/Flutter-FF2E97?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-FF2E97?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-FF2E97?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-FF2E97?style=for-the-badge&logo=sqlite&logoColor=white" />
 
 </div>
 
@@ -81,12 +79,11 @@ active_domains:
 
 ### ⚡ Finance Collection App
 <a href="https://github.com/Sohan-2807/Eramalla_Financing_App"><b>» open_repo</b></a>
+<br><img src="https://img.shields.io/badge/BUILT_WITH-AI--ASSISTED-00F0FF?style=flat-square&labelColor=0A0E27" />
 
 </div>
 
-Offline-first Android system with a hardened SQLite core, transactional data integrity, and native intent hooks for 1-tap WhatsApp reminders. On-the-fly PDF generation slashed manual tracking effort by **80%**.
-
-`STACK` Flutter · SQLite · Dart
+Offline-first Android system, AI-assisted build, with a hardened SQLite core, transactional data integrity, and native intent hooks for 1-tap WhatsApp reminders. On-the-fly PDF generation slashed manual tracking effort by **80%**.
 
 </td>
 <td width="50%" valign="top">
@@ -118,10 +115,6 @@ Live testbed for Data Structures, Algorithms, and problem-solving reps — the f
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohan-2807&hide_border=true&theme=tokyonight&background=0A0E27&ring=00F0FF&fire=7B2FFF&currStreakLabel=00F0FF&border_radius=10" width="60%" alt="Streak Stats"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sohan-2807&theme=tokyo-night&hide_border=true&bg_color=0A0E27&color=00F0FF&line=00F0FF&point=7B2FFF" width="100%" alt="Activity Graph" />
 
 </div>
 
