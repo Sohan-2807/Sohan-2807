@@ -116,6 +116,24 @@ Live testbed for Data Structures, Algorithms, and problem-solving reps — the f
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohan-2807&hide_border=true&theme=tokyonight&background=0A0E27&ring=00F0FF&fire=7B2FFF&currStreakLabel=00F0FF&border_radius=10" width="60%" alt="Streak Stats"/>
 
+<br><br>
+
+**◈ TROPHY CABINET ◈**
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sohan-2807&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="Trophies" />
+
+<br>
+
+**◈ CONTRIBUTION MATRIX ◈**
+
+<img src="https://ghchart.rshah.org/00F0FF/Sohan-2807" width="100%" alt="Contribution Heatmap" />
+
+<br><br>
+
+**◈ NEURAL PULSE ◈**
+
+<img src="https://raw.githubusercontent.com/Sohan-2807/Sohan-2807/output/github-snake-dark.svg" width="100%" alt="Contribution Snake" />
+
 </div>
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/laptop.gif" width="100%" height="3"/>
