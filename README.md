@@ -130,6 +130,60 @@ A live testbed for Data Structures, Algorithms, and problem-solving practice—t
 
 ---
 
+## `[ 05 ]` INTERACTIVE_COMMAND_CENTER
+
+<div align="center">
+
+<a href="#systemidentity"><img src="https://img.shields.io/badge/01-IDENTITY-00F0FF?style=for-the-badge&labelColor=0A0E27" alt="Jump to identity" /></a>
+<a href="#deployedbuilds"><img src="https://img.shields.io/badge/02-BUILDS-7B2FFF?style=for-the-badge&labelColor=0A0E27" alt="Jump to builds" /></a>
+<a href="#live_telemetry"><img src="https://img.shields.io/badge/03-TELEMETRY-FF2E97?style=for-the-badge&labelColor=0A0E27" alt="Jump to telemetry" /></a>
+<a href="#achievement_log"><img src="https://img.shields.io/badge/04-ARCHIVE-00F0FF?style=for-the-badge&labelColor=0A0E27" alt="Jump to archive" /></a>
+
+<br /><br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=600&color=FF2E97&center=true&vCenter=true&width=720&lines=%5B+interactive_mode%3A+enabled+%5D;%3E+scroll+through+the+system...;%3E+open+any+module+to+inspect...;%3E+click+the+badges+to+travel...;%3E+signal+received%3A+let%27s+build" alt="Interactive terminal animation" />
+
+</div>
+
+<details>
+<summary><strong>Open live system monitor</strong></summary>
+
+<br />
+
+```text
+[████████████████████] 100%  PROFILE ONLINE
+[███████████████░░░░░]  78%  MACHINE LEARNING
+[████████████████░░░░]  84%  SYSTEMS THINKING
+[██████████████████░░]  92%  SHIPPING MOMENTUM
+```
+
+</details>
+
+<br />
+
+<div align="center">
+
+### SKILL SIGNALS
+
+<img src="https://skillicons.dev/icons?i=cpp,python,c,dart,tensorflow,pytorch,sklearn,postgres,mongodb,sqlite,android,git,github&perline=7" alt="Technology skills" />
+
+<br /><br />
+
+<a href="https://github.com/Sohan-2807?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-ALL_REPOSITORIES-00F0FF?style=for-the-badge&logo=github&logoColor=0A0E27&labelColor=0A0E27" alt="Explore all repositories" /></a>
+<a href="https://github.com/Sohan-2807/Sohan-2807/commits/main/"><img src="https://img.shields.io/badge/WATCH-COMMIT_STREAM-7B2FFF?style=for-the-badge&logo=git&logoColor=white&labelColor=0A0E27" alt="Watch commit stream" /></a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sohan-2807&bg_color=0A0E27&color=00F0FF&line=7B2FFF&point=FF2E97&area=true&hide_border=true&custom_title=LIVE%20COMMIT%20MOTION" width="100%" alt="Animated GitHub activity graph" />
+
+</div>
+
+---
+
 ## `[ EOF ]`
 
 <div align="center">
