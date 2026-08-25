@@ -1,23 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080A0D,50:162B5C,100:4C7DFF&height=220&section=header&text=SOHAN%20THAMMINENI&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=AI%20%26%20ML%20%7C%20SOFTWARE%20ENGINEERING%20%7C%20PROBLEM%20SOLVING&descAlignY=62&descSize=16&descColor=B7C0D8" width="100%" alt="Sohan Thammineni" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050608,50:101C35,100:4169E1&height=220&section=header&text=SOHAN%20THAMMINENI&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=AI%20%26%20ML%20%20%7C%20%20SOFTWARE%20ENGINEERING%20%20%7C%20%20PROBLEM%20SOLVING&descAlignY=61&descSize=15&descColor=C8D2E6" width="100%" alt="Sohan Thammineni" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=17&duration=2800&pause=900&color=6E8DFF&center=true&vCenter=true&width=650&height=70&lines=Building+intelligent+systems...;Learning+by+building...;Turning+ideas+into+real+products...;Always+learning.+Always+shipping." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=16&duration=2600&pause=900&color=6F8FFF&center=true&vCenter=true&width=650&height=60&lines=Building+intelligent+systems...;Learning+by+building...;Turning+ideas+into+real+products...;Always+learning.+Always+shipping." alt="Animated introduction" />
 
 <br><br>
 
 <a href="https://github.com/Sohan-2807">
-<img src="https://img.shields.io/badge/GitHub-080A0D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-050608?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/sohan-thammineni007/">
-<img src="https://img.shields.io/badge/LinkedIn-080A0D?style=for-the-badge&logo=linkedin&logoColor=4C7DFF" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-050608?style=for-the-badge&logo=linkedin&logoColor=6F8FFF" alt="LinkedIn" />
 </a>
-
+&nbsp;
 <a href="mailto:thamminenisohan1977@gmail.com">
-<img src="https://img.shields.io/badge/Email-080A0D?style=for-the-badge&logo=gmail&logoColor=4C7DFF" alt="Email" />
+<img src="https://img.shields.io/badge/Email-050608?style=for-the-badge&logo=gmail&logoColor=6F8FFF" alt="Email" />
 </a>
 
 </div>
@@ -26,23 +26,17 @@
 
 ## About Me
 
-I'm **Sohan Thammineni**, a B.Tech Computer Science & Engineering student specializing in **Artificial Intelligence & Machine Learning** at **Lovely Professional University**, currently maintaining a **9.49 / 10.00 CGPA**.
+I'm **Sohan Thammineni**, a B.Tech Computer Science & Engineering student specializing in **Artificial Intelligence & Machine Learning** at **Lovely Professional University**, with a **9.49 / 10.00 CGPA**.
 
-I enjoy solving problems through software — from strengthening my foundations with **Data Structures & Algorithms** to building practical applications and exploring **Machine Learning**.
+I like turning complex problems into practical software. My current work focuses on **Machine Learning, Data Structures & Algorithms, Software Engineering, and offline-first applications**.
 
-My current focus is on:
+I'm continuously learning by building, experimenting, debugging, and shipping real projects.
 
-* Machine Learning & AI
-* Data Structures & Algorithms
-* Software Engineering
-* Offline-first applications
-* Building practical, reliable systems
-
-> **"Ship it, then perfect it."**
+> **Ship it, then perfect it.**
 
 ---
 
-## Skills
+## Technical Stack
 
 <div align="center">
 
@@ -50,7 +44,7 @@ My current focus is on:
 
 <img src="https://skillicons.dev/icons?i=cpp,python,c,dart&theme=dark" alt="C++, Python, C, Dart" />
 
-### Machine Learning
+### AI / Machine Learning
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" alt="TensorFlow, PyTorch, scikit-learn" />
 
@@ -66,44 +60,65 @@ My current focus is on:
 
 ---
 
-## Projects
+## Selected Work
 
 ### Finance Collection App
 
-An **offline-first Android finance application** built around local SQLite storage, transactional data handling, PDF generation, and WhatsApp reminders.
+An **offline-first Android finance system** built with local SQLite persistence, transactional data handling, dynamic PDF generation, and WhatsApp intent integration.
 
-**Tech:** `Android` `SQLite` `PDF Generation` `WhatsApp Intent`
+**Focus:** `Android` · `SQLite` · `PDF Generation` · `WhatsApp Intent`
+
+**Impact:** ~80% reduction in manual tracking effort.
+
+<div align="center">
 
 <a href="https://github.com/Sohan-2807/Eramalla_Financing_App">
-<img src="https://img.shields.io/badge/View%20Project-4C7DFF?style=for-the-badge&logo=github&logoColor=white" alt="View Finance Collection App" />
+<img src="https://img.shields.io/badge/VIEW_PROJECT-4169E1?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=050608" alt="View Finance Collection App" />
 </a>
 
-<br><br>
+</div>
+
+<br>
 
 ### DSA & Algorithm Practice
 
 A continuously growing repository for **Data Structures, Algorithms, programming fundamentals, and problem solving**.
 
-**Tech:** `C++` `Python` `C`
+**Focus:** `C++` · `Python` · `C`
+
+<div align="center">
 
 <a href="https://github.com/Sohan-2807/Practice">
-<img src="https://img.shields.io/badge/View%20Repository-4C7DFF?style=for-the-badge&logo=github&logoColor=white" alt="View DSA practice repository" />
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-4169E1?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=050608" alt="View DSA and Algorithm Practice repository" />
 </a>
+
+</div>
+
+---
+
+## Recognition
+
+* 🥉 **3rd Place — Full Stack Intelligence 1.0 Hackathon** — Lovely Professional University · July 2026
+* **iamNeo Associated — C Programming Language** — May 2026
+* **AI Basics Course** — Infosys Springboard · March 2026
+* **C Programming Course** — Udemy · January 2026
+* **Python Programming Course** — Udemy · November 2025
+* **C Programming Course** — Skill India · April 2025
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=15&duration=3000&pause=1000&color=6E8DFF&center=true&vCenter=true&width=500&height=40&lines=BUILD+%E2%86%92+LEARN+%E2%86%92+IMPROVE+%E2%86%92+REPEAT" alt="Build learn improve repeat animation" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=15&duration=3000&pause=1000&color=6F8FFF&center=true&vCenter=true&width=500&height=40&lines=BUILD+%E2%86%92+LEARN+%E2%86%92+IMPROVE+%E2%86%92+REPEAT" alt="Build learn improve repeat animation" />
 
-<br>
+<br><br>
 
 <a href="https://github.com/Sohan-2807">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-080A0D?style=for-the-badge&logo=github&logoColor=white" alt="Explore Sohan Thammineni GitHub" />
+<img src="https://img.shields.io/badge/EXPLORE_GITHUB-050608?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Explore GitHub" />
 </a>
 
 <a href="https://www.linkedin.com/in/sohan-thammineni007/">
-<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-080A0D?style=for-the-badge&logo=linkedin&logoColor=4C7DFF" alt="Connect with Sohan Thammineni on LinkedIn" />
+<img src="https://img.shields.io/badge/CONNECT-LINKEDIN-050608?style=for-the-badge&logo=linkedin&logoColor=6F8FFF" alt="Connect on LinkedIn" />
 </a>
 
 <br><br>
