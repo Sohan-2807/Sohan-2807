@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050608,50:162B5C,100:4169E1&height=250&section=header&text=Sohan%20Thammineni&fontSize=55&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=AI%20%26%20ML%20Engineer%20%7C%20Software%20Developer&descAlignY=55&descSize=18" width="100%" alt="Sohan Thammineni" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050608,50:162B5C,100:4169E1&amp;height=250&amp;section=header&amp;text=Sohan%20Thammineni&amp;fontSize=55&amp;fontColor=FFFFFF&amp;fontAlignY=35&amp;animation=fadeIn&amp;desc=AI%20%26%20ML%20Engineer%20%7C%20Software%20Developer&amp;descAlignY=55&amp;descSize=18" width="100%" alt="Sohan Thammineni" />
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=17&duration=2800&pause=900&color=6F8FFF&center=true&vCenter=true&repeat=true&width=650&height=60&lines=Building+intelligent+systems...;Learning+by+building...;Turning+ideas+into+real+products...;Always+learning.+Always+shipping." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&amp;size=17&amp;duration=2800&amp;pause=900&amp;color=6F8FFF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=650&amp;height=60&amp;lines=Building+intelligent+systems...;Learning+by+building...;Turning+ideas+into+real+products...;Always+learning.+Always+shipping." alt="Animated introduction" />
 
 <br>
 
-<a href="https://github.com/Sohan-2807"><img src="https://img.shields.io/badge/GitHub-050608?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/sohan-thammineni007/"><img src="https://img.shields.io/badge/LinkedIn-050608?style=for-the-badge&logo=linkedin&logoColor=6F8FFF" alt="LinkedIn" /></a>
-<a href="mailto:thamminenisohan1977@gmail.com"><img src="https://img.shields.io/badge/Email-050608?style=for-the-badge&logo=gmail&logoColor=6F8FFF" alt="Email" /></a>
+<a href="https://github.com/Sohan-2807"><img src="https://img.shields.io/badge/GitHub-050608?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/sohan-thammineni007/"><img src="https://img.shields.io/badge/LinkedIn-050608?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6F8FFF" alt="LinkedIn" /></a>
+<a href="mailto:thamminenisohan1977@gmail.com"><img src="https://img.shields.io/badge/Email-050608?style=for-the-badge&amp;logo=gmail&amp;logoColor=6F8FFF" alt="Email" /></a>
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sohan-2807&color=4169E1&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Sohan-2807&amp;color=4169E1&amp;style=for-the-badge&amp;label=PROFILE+VIEWS)
 
 </div>
 
@@ -36,15 +36,15 @@ I enjoy turning complex problems into practical software — my current focus sp
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=cpp,python,c,dart&theme=dark" alt="C++, Python, C, Dart" />
+<img src="https://skillicons.dev/icons?i=cpp,python,c,dart&amp;theme=dark" alt="C++, Python, C, Dart" />
 
 **AI / Machine Learning**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" alt="TensorFlow, PyTorch, scikit-learn" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&amp;theme=dark" alt="TensorFlow, PyTorch, scikit-learn" />
 
 **Databases · Development · Tools**
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,android,git,github,vscode,figma&theme=dark" alt="PostgreSQL, MongoDB, SQLite, Android, Git, GitHub, VS Code, Figma" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,android,git,github,vscode,figma&amp;theme=dark" alt="PostgreSQL, MongoDB, SQLite, Android, Git, GitHub, VS Code, Figma" />
 
 </div>
 
@@ -64,7 +64,7 @@ An offline-first Android finance system built around local SQLite persistence, t
 
 **Impact:** ~80% reduction in manual tracking effort.
 
-<a href="https://github.com/Sohan-2807/Eramalla_Financing_App"><img src="https://img.shields.io/badge/View_Project-4169E1?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=050608" alt="View Finance Collection App" /></a>
+<a href="https://github.com/Sohan-2807/Eramalla_Financing_App"><img src="https://img.shields.io/badge/View_Project-4169E1?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF&amp;labelColor=050608" alt="View Finance Collection App" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -75,7 +75,7 @@ A continuously growing repository of Data Structures, Algorithms, programming fu
 
 `C++` `Python` `C`
 
-<a href="https://github.com/Sohan-2807/Practice"><img src="https://img.shields.io/badge/View_Repository-4169E1?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=050608" alt="View DSA and Algorithm Practice repository" /></a>
+<a href="https://github.com/Sohan-2807/Practice"><img src="https://img.shields.io/badge/View_Repository-4169E1?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF&amp;labelColor=050608" alt="View DSA and Algorithm Practice repository" /></a>
 
 </td>
 </tr>
@@ -98,12 +98,12 @@ A continuously growing repository of Data Structures, Algorithms, programming fu
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=15&duration=3000&pause=1000&color=6F8FFF&center=true&vCenter=true&width=520&height=40&lines=BUILD+%E2%86%92+LEARN+%E2%86%92+IMPROVE+%E2%86%92+REPEAT" alt="Build learn improve repeat animation" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&amp;size=15&amp;duration=3000&amp;pause=1000&amp;color=6F8FFF&amp;center=true&amp;vCenter=true&amp;width=520&amp;height=40&amp;lines=BUILD+%E2%86%92+LEARN+%E2%86%92+IMPROVE+%E2%86%92+REPEAT" alt="Build learn improve repeat animation" />
 
 <br><br>
 
-<a href="https://github.com/Sohan-2807"><img src="https://img.shields.io/badge/EXPLORE_GITHUB-050608?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Explore GitHub" /></a>
-<a href="https://www.linkedin.com/in/sohan-thammineni007/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-050608?style=for-the-badge&logo=linkedin&logoColor=6F8FFF" alt="Connect on LinkedIn" /></a>
+<a href="https://github.com/Sohan-2807"><img src="https://img.shields.io/badge/EXPLORE_GITHUB-050608?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF" alt="Explore GitHub" /></a>
+<a href="https://www.linkedin.com/in/sohan-thammineni007/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-050608?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6F8FFF" alt="Connect on LinkedIn" /></a>
 
 <br><br>
 
@@ -111,4 +111,4 @@ A continuously growing repository of Data Structures, Algorithms, programming fu
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,50:162B5C,100:050608&height=120&section=footer" width="100%" alt="Profile footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4169E1,50:162B5C,100:050608&amp;height=120&amp;section=footer" width="100%" alt="Profile footer" />
