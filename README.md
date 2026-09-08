@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050608,50:162B5C,100:4169E1&height=250&section=header&text=Sohan%20Thammineni&fontSize=55&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=AI%20%26%20ML%20Engineer%20%7C%20Software%20Developer&descAlignY=55&descSize=18" width="100%" alt="Sohan Thammineni" />
+# ⚡ Sohan Thammineni
+
+### AI & ML Engineer | Software Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=17&duration=2800&pause=900&color=6F8FFF&center=true&vCenter=true&repeat=true&width=650&height=60&lines=Building+intelligent+systems...;Learning+by+building...;Turning+ideas+into+real+products...;Always+learning.+Always+shipping." alt="Animated introduction" />
 
@@ -27,6 +29,28 @@ I enjoy turning complex problems into practical software — my current focus sp
 ```txt
 > Ship it, then perfect it.
 ```
+
+---
+
+### 🐍 Contribution Activity
+
+<div align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Sohan-2807/Sohan-2807/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Sohan-2807/Sohan-2807/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Sohan-2807/Sohan-2807/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Activity - Last 365 Days"
+    width="100%"
+  />
+</picture>
+</div>
 
 ---
 
@@ -80,43 +104,6 @@ A continuously growing repository of Data Structures, Algorithms, programming fu
 </td>
 </tr>
 </table>
-
----
-
-### 🐍 Contribution Activity
-
-<div align="center">
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Sohan-2807/Sohan-2807/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Sohan-2807/Sohan-2807/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/Sohan-2807/Sohan-2807/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Activity - Last 365 Days"
-    width="100%"
-  />
-</picture>
-</div>
-
----
-
-### Recognition
-
-| Achievement | Issuer | Date |
-|---|---|---|
-| Participated — Full Stack Intelligence 1.0 Hackathon | Lovely Professional University | July 2026 |
-| iamNeo Associated — C Programming Language | iamNeo | May 2026 |
-| AI Basics Course | Infosys Springboard | March 2026 |
-| C Programming Course | Udemy | January 2026 |
-| Python Programming Course | Udemy | November 2025 |
-| C Programming Course | Skill India | April 2025 |
-
----
 
 <div align="center">
 
