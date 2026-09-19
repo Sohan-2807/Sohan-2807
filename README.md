@@ -114,7 +114,7 @@ A continuously growing repository of Data Structures, Algorithms, programming fu
 <a href="https://github.com/Sohan-2807"><img src="https://img.shields.io/badge/EXPLORE_GITHUB-050608?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Explore GitHub" /></a>
 <a href="https://www.linkedin.com/in/sohan-thammineni007/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-050608?style=for-the-badge&logo=linkedin&logoColor=6F8FFF" alt="Connect on LinkedIn" /></a>
 
-<br><br>
+<br><br><br>
 
 <sub>© Sohan Thammineni · Building things that solve real problems.</sub>
 
