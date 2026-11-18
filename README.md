@@ -8,6 +8,7 @@
 
 <br>
 
+<a href="https://v0-thammineni-sohan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-050608?style=for-the-badge&logo=vercel&logoColor=6F8FFF" alt="Portfolio" /></a>
 <a href="https://github.com/Sohan-2807"><img src="https://img.shields.io/badge/GitHub-050608?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/sohan-thammineni007/"><img src="https://img.shields.io/badge/LinkedIn-050608?style=for-the-badge&logo=linkedin&logoColor=6F8FFF" alt="LinkedIn" /></a>
 <a href="mailto:thamminenisohan1977@gmail.com"><img src="https://img.shields.io/badge/Email-050608?style=for-the-badge&logo=gmail&logoColor=6F8FFF" alt="Email" /></a>
@@ -123,6 +124,7 @@ A continuously growing repository of Data Structures, Algorithms, programming fu
 
 <br><br>
 
+<a href="https://v0-thammineni-sohan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-050608?style=for-the-badge&logo=vercel&logoColor=6F8FFF" alt="View Portfolio" /></a>
 <a href="https://github.com/Sohan-2807"><img src="https://img.shields.io/badge/EXPLORE_GITHUB-050608?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Explore GitHub" /></a>
 <a href="https://www.linkedin.com/in/sohan-thammineni007/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-050608?style=for-the-badge&logo=linkedin&logoColor=6F8FFF" alt="Connect on LinkedIn" /></a>
 
