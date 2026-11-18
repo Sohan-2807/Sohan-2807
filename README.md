@@ -109,6 +109,15 @@ class SohanThammineni:
 
 <div align="center">
 
+<!-- 3D contribution calendar (generated daily by .github/workflows/profile-3d.yml) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
+</picture>
+
+<br/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=Sohan-2807&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&cache_seconds=1800" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohan-2807&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&langs_count=8&cache_seconds=1800" height="170"/>
 
