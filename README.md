@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050608,50:162B5C,100:4169E1&height=180&section=header&text=Sohan%20Thammineni&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlignY=55&descSize=18" width="100%" alt="Header" />
-
 <div align="center">
 
 # ⚡ Sohan Thammineni
@@ -83,7 +81,7 @@ I enjoy turning complex problems into practical software — my current focus sp
 ### ⚡ GitHub Streak & Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohan-2807&theme=tokyonight&border_radius=8&background=050608&ring=4169E1&fire=6F8FFF&currStreakLabel=4169E1" alt="Sohan's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Sohan-2807&theme=tokyonight&border_radius=8&background=050608&ring=4169E1&fire=6F8FFF&currStreakLabel=4169E1" alt="Sohan's GitHub Streak" />
 </div>
 
 ---
@@ -138,16 +136,6 @@ A continuously growing repository of Data Structures, Algorithms, programming fu
 </td>
 </tr>
 </table>
-
----
-
-### 🎧 Listening To
-
-<div align="center">
-  <a href="https://open.spotify.com">
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Currently Playing" />
-  </a>
-</div>
 
 <div align="center">
 
