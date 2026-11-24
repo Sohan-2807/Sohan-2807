@@ -1,8 +1,8 @@
 <div align="center">
 
-# ⚡ Sohan Thammineni
+<img src="./hero-card-3d.svg" alt="Sohan Thammineni - AI & ML Engineer" width="100%" />
 
-### AI & ML Engineer
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=17&duration=2800&pause=900&color=6F8FFF&center=true&vCenter=true&repeat=true&width=650&height=60&lines=Building+intelligent+systems...;Learning+by+building...;Turning+ideas+into+real+products...;Always+learning.+Always+shipping." alt="Animated introduction" />
 
@@ -30,10 +30,6 @@ I enjoy turning complex problems into practical software — my current focus sp
 ```txt
 > Ship it, then perfect it.
 ```
-
-<div align="center">
-  <img src="./education-card-3d.svg" alt="Sohan Thammineni - Academic & AI Engineering Profile" width="100%" />
-</div>
 
 ---
 
