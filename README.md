@@ -118,7 +118,7 @@ An offline-first Android finance system built around local SQLite persistence, t
 
 A continuously growing repository of Data Structures, Algorithms, programming fundamentals, and problem-solving exercises.
 
-`C++` `Python` `C`
+`C++` `C`
 
 <a href="https://github.com/Sohan-2807/Practice"><img src="https://img.shields.io/badge/View_Repository-4169E1?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=050608" alt="View DSA and Algorithm Practice repository" /></a>
 

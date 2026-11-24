@@ -220,9 +220,9 @@
       <text x="191" y="15" class="sans" font-size="9.5" font-weight="700" fill="#C5D7FF" text-anchor="middle">Deep Learning</text>
 
       <!-- Tag 3 -->
-      <rect x="252" y="0" width="90" height="22" rx="5" fill="#081026" stroke="#162B5C" stroke-width="1" />
+      <rect x="252" y="0" width="84" height="22" rx="5" fill="#081026" stroke="#162B5C" stroke-width="1" />
       <circle cx="262" cy="11" r="2.5" fill="#6F8FFF" />
-      <text x="298" y="15" class="sans" font-size="9.5" font-weight="700" fill="#C5D7FF" text-anchor="middle">DSA (C++/Py)</text>
+      <text x="294" y="15" class="sans" font-size="9.5" font-weight="700" fill="#C5D7FF" text-anchor="middle">DSA (C++)</text>
 
       <!-- Tag 4 -->
       <rect x="350" y="0" width="112" height="22" rx="5" fill="#081026" stroke="#162B5C" stroke-width="1" />
@@ -231,57 +231,65 @@
     </g>
   </g>
 
-  <!-- ==================== RIGHT SECTION: 3D ISOMETRIC CUBE & 9.49 CGPA ==================== -->
+  <!-- ==================== RIGHT SECTION: 3D ISOMETRIC CUBE, 9.49 CGPA & CERTIFICATES ==================== -->
   <g transform="translate(620, 24)">
     <!-- Right Container Box -->
-    <rect x="0" y="6" width="198" height="194" rx="14" fill="#060c1d" stroke="#162B5C" stroke-width="1.2" />
+    <rect x="0" y="5" width="198" height="196" rx="14" fill="#060c1d" stroke="#162B5C" stroke-width="1.2" />
 
     <!-- Top Label -->
-    <text x="99" y="28" class="mono" font-size="10" font-weight="700" fill="#6F8FFF" text-anchor="middle" letter-spacing="1.2">ACADEMIC HONORS</text>
+    <text x="99" y="24" class="mono" font-size="10" font-weight="700" fill="#6F8FFF" text-anchor="middle" letter-spacing="1.2">ACADEMIC HONORS</text>
 
     <!-- Ground Shadow Beneath 3D Object -->
-    <ellipse cx="99" cy="100" rx="36" ry="11" fill="#0A1838" class="shadow-pulse" filter="url(#neon-glow)" />
+    <ellipse cx="99" cy="88" rx="34" ry="10" fill="#0A1838" class="shadow-pulse" filter="url(#neon-glow)" />
 
     <!-- 3D Floating Isometric Diamond/Cube -->
-    <g class="iso-float" transform="translate(99, 62)">
+    <g class="iso-float" transform="translate(99, 52)">
       <!-- Hologram Orbit Ring around 3D Cube -->
       <g class="hologram-ring" transform="translate(0, 0)">
-        <ellipse cx="0" cy="0" rx="46" ry="18" fill="none" stroke="#4169E1" stroke-width="1.2" stroke-dasharray="8 6" opacity="0.65" />
-        <circle cx="45" cy="0" r="3" fill="#A4CAFE" filter="url(#neon-glow)" />
+        <ellipse cx="0" cy="0" rx="44" ry="17" fill="none" stroke="#4169E1" stroke-width="1.2" stroke-dasharray="8 6" opacity="0.65" />
+        <circle cx="43" cy="0" r="3" fill="#A4CAFE" filter="url(#neon-glow)" />
       </g>
 
       <!-- Isometric Cube Top Diamond -->
-      <polygon points="0,-25 35,-8 0,9 -35,-8" fill="url(#cube-top)" filter="url(#neon-glow)" />
+      <polygon points="0,-24 34,-8 0,8 -34,-8" fill="url(#cube-top)" filter="url(#neon-glow)" />
       
       <!-- Left Face -->
-      <polygon points="-35,-8 0,9 0,39 -35,22" fill="url(#cube-left)" />
+      <polygon points="-34,-8 0,8 0,36 -34,20" fill="url(#cube-left)" />
       
       <!-- Right Face -->
-      <polygon points="0,9 35,-8 35,22 0,39" fill="url(#cube-right)" />
+      <polygon points="0,8 34,-8 34,20 0,36" fill="url(#cube-right)" />
 
       <!-- Glowing AI Core Center Node -->
-      <circle cx="0" cy="-8" r="5" fill="#FFFFFF" filter="url(#intense-glow)" />
-      <circle cx="0" cy="-8" r="2.5" fill="#A4CAFE" />
+      <circle cx="0" cy="-8" r="4.5" fill="#FFFFFF" filter="url(#intense-glow)" />
+      <circle cx="0" cy="-8" r="2.2" fill="#A4CAFE" />
 
       <!-- Isometric Tassel / Academic Ray -->
-      <line x1="0" y1="-8" x2="28" y2="7" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="round" opacity="0.9" />
-      <circle cx="28" cy="7" r="3" fill="#6F8FFF" filter="url(#neon-glow)" />
+      <line x1="0" y1="-8" x2="27" y2="6" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" opacity="0.9" />
+      <circle cx="27" cy="6" r="2.8" fill="#6F8FFF" filter="url(#neon-glow)" />
     </g>
 
     <!-- 3D CGPA Glass Card -->
-    <g transform="translate(22, 126)">
-      <rect x="0" y="0" width="154" height="60" rx="12" fill="#0b1329" fill-opacity="0.9" stroke="#4169E1" stroke-width="1.2" />
+    <g transform="translate(16, 104)">
+      <rect x="0" y="0" width="166" height="48" rx="10" fill="#0b1329" fill-opacity="0.9" stroke="#4169E1" stroke-width="1.2" />
       
       <!-- CGPA Number with Neon Breath Effect -->
-      <text x="68" y="37" class="sans cgpa-glow" font-size="31" font-weight="900" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.5">9.49</text>
+      <text x="74" y="32" class="sans cgpa-glow" font-size="28" font-weight="900" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.5">9.49</text>
       
       <!-- Star Sparkle Glint on Top Right of Number -->
-      <g class="sparkle-anim" transform="translate(112, 20)">
+      <g class="sparkle-anim" transform="translate(116, 16)">
         <path d="M 0 -7 Q 0 0 7 0 Q 0 0 0 7 Q 0 0 -7 0 Q 0 0 0 -7" fill="#A4CAFE" />
         <circle cx="0" cy="0" r="1.5" fill="#FFFFFF" />
       </g>
 
-      <text x="77" y="52" class="mono" font-size="9.5" font-weight="700" fill="#6F8FFF" text-anchor="middle" letter-spacing="1.2">CGPA / 10.00</text>
+      <text x="82" y="44" class="mono" font-size="9" font-weight="700" fill="#6F8FFF" text-anchor="middle" letter-spacing="1">CGPA / 10.00</text>
+    </g>
+
+    <!-- Verified Certificates Badge -->
+    <g transform="translate(16, 158)">
+      <rect x="0" y="0" width="166" height="28" rx="8" fill="#081433" stroke="#4169E1" stroke-width="1" stroke-opacity="0.8" />
+      <circle cx="14" cy="14" r="3.5" fill="#6F8FFF" filter="url(#neon-glow)" />
+      <circle cx="14" cy="14" r="1.8" fill="#FFFFFF" />
+      <text x="94" y="18" class="mono" font-size="9" font-weight="700" fill="#C5D7FF" text-anchor="middle" letter-spacing="0.4">VERIFIED CERTIFICATES : 9</text>
     </g>
   </g>
 </svg>
