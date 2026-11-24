@@ -31,6 +31,10 @@ I enjoy turning complex problems into practical software — my current focus sp
 > Ship it, then perfect it.
 ```
 
+<div align="center">
+  <img src="./neural-network-3d.svg" alt="3D Deep Neural Network Architecture" width="100%" />
+</div>
+
 ---
 
 ### 📊 3D Contribution Calendar
