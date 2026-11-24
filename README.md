@@ -23,10 +23,6 @@
 
 ### About Me
 
-<table border="0">
-<tr>
-<td width="62%" valign="top">
-
 I'm **Sohan Thammineni**, a B.Tech Computer Science & Engineering student specializing in **Artificial Intelligence & Machine Learning** at **Lovely Professional University**, holding a **9.49 / 10.00 CGPA**.
 
 I enjoy turning complex problems into practical software — my current focus spans **Machine Learning, Data Structures & Algorithms, and offline-first intelligent applications**. I learn by building, experimenting, debugging, and shipping real projects.
@@ -34,13 +30,6 @@ I enjoy turning complex problems into practical software — my current focus sp
 ```txt
 > Ship it, then perfect it.
 ```
-
-</td>
-<td width="38%" align="center" valign="middle">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="3D Isometric AI Workspace" />
-</td>
-</tr>
-</table>
 
 ---
 
