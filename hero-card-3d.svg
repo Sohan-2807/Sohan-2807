@@ -146,7 +146,7 @@
       to { stroke-dashoffset: 0; }
     }
 
-    /* Cyberpunk Text Decrypt / Scramble Animation */
+    /* Cyberpunk Letter-by-Letter Decrypt Animation */
     .scramble-layer {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, sans-serif;
       font-size: 32px;
@@ -167,20 +167,30 @@
     .scr-8  { animation-name: kf8; }
     .scr-9  { animation-name: kf9; }
     .scr-10 { animation-name: kf10; }
+    .scr-11 { animation-name: kf11; }
+    .scr-12 { animation-name: kf12; }
+    .scr-13 { animation-name: kf13; }
+    .scr-14 { animation-name: kf14; }
+    .scr-15 { animation-name: kf15; }
     .scr-final { animation-name: kfFinal; }
 
-    @keyframes kf0  { 0%, 1.8% { opacity: 1; visibility: visible; } 1.9%, 100% { opacity: 0; visibility: hidden; } }
-    @keyframes kf1  { 0%, 1.8% { opacity: 0; visibility: hidden; } 1.9%, 3.7% { opacity: 1; visibility: visible; } 3.8%, 100% { opacity: 0; visibility: hidden; } }
-    @keyframes kf2  { 0%, 3.7% { opacity: 0; visibility: hidden; } 3.8%, 5.6% { opacity: 1; visibility: visible; } 5.7%, 100% { opacity: 0; visibility: hidden; } }
-    @keyframes kf3  { 0%, 5.6% { opacity: 0; visibility: hidden; } 5.7%, 7.5% { opacity: 1; visibility: visible; } 7.6%, 100% { opacity: 0; visibility: hidden; } }
-    @keyframes kf4  { 0%, 7.5% { opacity: 0; visibility: hidden; } 7.6%, 9.4% { opacity: 1; visibility: visible; } 9.5%, 100% { opacity: 0; visibility: hidden; } }
-    @keyframes kf5  { 0%, 9.4% { opacity: 0; visibility: hidden; } 9.5%, 11.3% { opacity: 1; visibility: visible; } 11.4%, 100% { opacity: 0; visibility: hidden; } }
-    @keyframes kf6  { 0%, 11.3% { opacity: 0; visibility: hidden; } 11.4%, 13.2% { opacity: 1; visibility: visible; } 13.3%, 100% { opacity: 0; visibility: hidden; } }
-    @keyframes kf7  { 0%, 13.2% { opacity: 0; visibility: hidden; } 13.3%, 15.1% { opacity: 1; visibility: visible; } 15.2%, 100% { opacity: 0; visibility: hidden; } }
-    @keyframes kf8  { 0%, 15.1% { opacity: 0; visibility: hidden; } 15.2%, 17.0% { opacity: 1; visibility: visible; } 17.1%, 100% { opacity: 0; visibility: hidden; } }
-    @keyframes kf9  { 0%, 17.0% { opacity: 0; visibility: hidden; } 17.1%, 18.9% { opacity: 1; visibility: visible; } 19.0%, 100% { opacity: 0; visibility: hidden; } }
-    @keyframes kf10 { 0%, 18.9% { opacity: 0; visibility: hidden; } 19.0%, 20.8% { opacity: 1; visibility: visible; } 20.9%, 100% { opacity: 0; visibility: hidden; } }
-    @keyframes kfFinal { 0%, 20.8% { opacity: 0; visibility: hidden; } 20.9%, 96.5% { opacity: 1; visibility: visible; } 96.6%, 100% { opacity: 0; visibility: hidden; } }
+    @keyframes kf0  { 0%, 1.4% { opacity: 1; visibility: visible; } 1.5%, 100% { opacity: 0; visibility: hidden; } }
+    @keyframes kf1  { 0%, 1.4% { opacity: 0; visibility: hidden; } 1.5%, 2.9% { opacity: 1; visibility: visible; } 3.0%, 100% { opacity: 0; visibility: hidden; } }
+    @keyframes kf2  { 0%, 2.9% { opacity: 0; visibility: hidden; } 3.0%, 4.4% { opacity: 1; visibility: visible; } 4.5%, 100% { opacity: 0; visibility: hidden; } }
+    @keyframes kf3  { 0%, 4.4% { opacity: 0; visibility: hidden; } 4.5%, 5.9% { opacity: 1; visibility: visible; } 6.0%, 100% { opacity: 0; visibility: hidden; } }
+    @keyframes kf4  { 0%, 5.9% { opacity: 0; visibility: hidden; } 6.0%, 7.4% { opacity: 1; visibility: visible; } 7.5%, 100% { opacity: 0; visibility: hidden; } }
+    @keyframes kf5  { 0%, 7.4% { opacity: 0; visibility: hidden; } 7.5%, 8.9% { opacity: 1; visibility: visible; } 9.0%, 100% { opacity: 0; visibility: hidden; } }
+    @keyframes kf6  { 0%, 8.9% { opacity: 0; visibility: hidden; } 9.0%, 10.4% { opacity: 1; visibility: visible; } 10.5%, 100% { opacity: 0; visibility: hidden; } }
+    @keyframes kf7  { 0%, 10.4% { opacity: 0; visibility: hidden; } 10.5%, 11.9% { opacity: 1; visibility: visible; } 12.0%, 100% { opacity: 0; visibility: hidden; } }
+    @keyframes kf8  { 0%, 11.9% { opacity: 0; visibility: hidden; } 12.0%, 13.4% { opacity: 1; visibility: visible; } 13.5%, 100% { opacity: 0; visibility: hidden; } }
+    @keyframes kf9  { 0%, 13.4% { opacity: 0; visibility: hidden; } 13.5%, 14.9% { opacity: 1; visibility: visible; } 15.0%, 100% { opacity: 0; visibility: hidden; } }
+    @keyframes kf10 { 0%, 14.9% { opacity: 0; visibility: hidden; } 15.0%, 16.4% { opacity: 1; visibility: visible; } 16.5%, 100% { opacity: 0; visibility: hidden; } }
+    @keyframes kf11 { 0%, 16.4% { opacity: 0; visibility: hidden; } 16.5%, 17.9% { opacity: 1; visibility: visible; } 18.0%, 100% { opacity: 0; visibility: hidden; } }
+    @keyframes kf12 { 0%, 17.9% { opacity: 0; visibility: hidden; } 18.0%, 19.4% { opacity: 1; visibility: visible; } 19.5%, 100% { opacity: 0; visibility: hidden; } }
+    @keyframes kf13 { 0%, 19.4% { opacity: 0; visibility: hidden; } 19.5%, 20.9% { opacity: 1; visibility: visible; } 21.0%, 100% { opacity: 0; visibility: hidden; } }
+    @keyframes kf14 { 0%, 20.9% { opacity: 0; visibility: hidden; } 21.0%, 22.4% { opacity: 1; visibility: visible; } 22.5%, 100% { opacity: 0; visibility: hidden; } }
+    @keyframes kf15 { 0%, 22.4% { opacity: 0; visibility: hidden; } 22.5%, 23.9% { opacity: 1; visibility: visible; } 24.0%, 100% { opacity: 0; visibility: hidden; } }
+    @keyframes kfFinal { 0%, 23.9% { opacity: 0; visibility: hidden; } 24.0%, 96.5% { opacity: 1; visibility: visible; } 96.6%, 100% { opacity: 0; visibility: hidden; } }
   </style>
 
   <!-- Base Card Background -->
@@ -217,38 +227,53 @@
 
     <!-- Scramble-to-Reveal Name Animation -->
     <g transform="translate(0, 48)">
-      <!-- Frame 0: Pure random scramble -->
-      <text x="0" y="0" class="scramble-layer scr-0" fill="#00E5FF">!@#$%^&amp;*?~#@!&amp;%</text>
+      <!-- Frame 0: All random scramble -->
+      <text x="0" y="0" class="scramble-layer scr-0" fill="#00E5FF">!@#$%^&amp;*?~#@!&amp;%*</text>
 
-      <!-- Frame 1: Scramble shifts -->
-      <text x="0" y="0" class="scramble-layer scr-1" fill="#00E5FF">%&amp;*#@!$^?%*#@!$^</text>
+      <!-- Frame 1: 'S' revealed -->
+      <text x="0" y="0" class="scramble-layer scr-1"><tspan fill="#FFFFFF">S</tspan><tspan fill="#00E5FF">@#$%^&amp;*?~#@!&amp;%*#</tspan></text>
 
-      <!-- Frame 2: 'S' revealed -->
-      <text x="0" y="0" class="scramble-layer scr-2"><tspan fill="#FFFFFF">S</tspan><tspan fill="#00E5FF">@#$%^&amp;*?~#@!&amp;%*</tspan></text>
+      <!-- Frame 2: 'SO' revealed -->
+      <text x="0" y="0" class="scramble-layer scr-2"><tspan fill="#FFFFFF">SO</tspan><tspan fill="#00E5FF">#$%^&amp;*?~#@!&amp;%*#@</tspan></text>
 
-      <!-- Frame 3: 'SO' revealed -->
-      <text x="0" y="0" class="scramble-layer scr-3"><tspan fill="#FFFFFF">SO</tspan><tspan fill="#00E5FF">#$%^&amp;*?~#@!&amp;%*#</tspan></text>
+      <!-- Frame 3: 'SOH' revealed -->
+      <text x="0" y="0" class="scramble-layer scr-3"><tspan fill="#FFFFFF">SOH</tspan><tspan fill="#00E5FF">$%^&amp;*?~#@!&amp;%*#@!</tspan></text>
 
-      <!-- Frame 4: 'SOH' revealed -->
-      <text x="0" y="0" class="scramble-layer scr-4"><tspan fill="#FFFFFF">SOH</tspan><tspan fill="#00E5FF">$%^&amp;*?~#@!&amp;%*#@</tspan></text>
+      <!-- Frame 4: 'SOHA' revealed -->
+      <text x="0" y="0" class="scramble-layer scr-4"><tspan fill="#FFFFFF">SOHA</tspan><tspan fill="#00E5FF">%^&amp;*?~#@!&amp;%*#@!&amp;</tspan></text>
 
-      <!-- Frame 5: 'SOHA' revealed -->
-      <text x="0" y="0" class="scramble-layer scr-5"><tspan fill="#FFFFFF">SOHA</tspan><tspan fill="#00E5FF">%^&amp;*?~#@!&amp;%*#@!</tspan></text>
+      <!-- Frame 5: 'SOHAN' revealed -->
+      <text x="0" y="0" class="scramble-layer scr-5"><tspan fill="#FFFFFF">SOHAN</tspan><tspan fill="#00E5FF"> ^&amp;*?~#@!&amp;%*#@</tspan></text>
 
-      <!-- Frame 6: 'SOHAN' revealed -->
-      <text x="0" y="0" class="scramble-layer scr-6"><tspan fill="#FFFFFF">SOHAN</tspan><tspan fill="#00E5FF"> ^&amp;*?~#@!&amp;%*#</tspan></text>
+      <!-- Frame 6: 'SOHAN ' revealed -->
+      <text x="0" y="0" class="scramble-layer scr-6"><tspan fill="#FFFFFF">SOHAN </tspan><tspan fill="#00E5FF">&amp;*?~#@!&amp;%*#@!</tspan></text>
 
       <!-- Frame 7: 'SOHAN T' revealed -->
-      <text x="0" y="0" class="scramble-layer scr-7"><tspan fill="#FFFFFF">SOHAN T</tspan><tspan fill="#00E5FF">&amp;*?~#@!&amp;%*#@</tspan></text>
+      <text x="0" y="0" class="scramble-layer scr-7"><tspan fill="#FFFFFF">SOHAN T</tspan><tspan fill="#00E5FF">*?~#@!&amp;%*#@!&amp;</tspan></text>
 
       <!-- Frame 8: 'SOHAN TH' revealed -->
-      <text x="0" y="0" class="scramble-layer scr-8"><tspan fill="#FFFFFF">SOHAN TH</tspan><tspan fill="#00E5FF">*?~#@!&amp;%*#@!</tspan></text>
+      <text x="0" y="0" class="scramble-layer scr-8"><tspan fill="#FFFFFF">SOHAN TH</tspan><tspan fill="#00E5FF">?~#@!&amp;%*#@!&amp;%</tspan></text>
 
       <!-- Frame 9: 'SOHAN THA' revealed -->
-      <text x="0" y="0" class="scramble-layer scr-9"><tspan fill="#FFFFFF">SOHAN THA</tspan><tspan fill="#00E5FF">?~#@!&amp;%*#@!</tspan></text>
+      <text x="0" y="0" class="scramble-layer scr-9"><tspan fill="#FFFFFF">SOHAN THA</tspan><tspan fill="#00E5FF">~#@!&amp;%*#@!&amp;%*</tspan></text>
 
-      <!-- Frame 10: 'SOHAN THAMM' revealed -->
-      <text x="0" y="0" class="scramble-layer scr-10"><tspan fill="#FFFFFF">SOHAN THAMM</tspan><tspan fill="#00E5FF">!&amp;%*#@!</tspan></text>
+      <!-- Frame 10: 'SOHAN THAM' revealed -->
+      <text x="0" y="0" class="scramble-layer scr-10"><tspan fill="#FFFFFF">SOHAN THAM</tspan><tspan fill="#00E5FF">#@!&amp;%*#@!&amp;</tspan></text>
+
+      <!-- Frame 11: 'SOHAN THAMM' revealed -->
+      <text x="0" y="0" class="scramble-layer scr-11"><tspan fill="#FFFFFF">SOHAN THAMM</tspan><tspan fill="#00E5FF">@!&amp;%*#@!</tspan></text>
+
+      <!-- Frame 12: 'SOHAN THAMMI' revealed -->
+      <text x="0" y="0" class="scramble-layer scr-12"><tspan fill="#FFFFFF">SOHAN THAMMI</tspan><tspan fill="#00E5FF">!&amp;%*#@</tspan></text>
+
+      <!-- Frame 13: 'SOHAN THAMMIN' revealed -->
+      <text x="0" y="0" class="scramble-layer scr-13"><tspan fill="#FFFFFF">SOHAN THAMMIN</tspan><tspan fill="#00E5FF">&amp;%*#</tspan></text>
+
+      <!-- Frame 14: 'SOHAN THAMMINE' revealed -->
+      <text x="0" y="0" class="scramble-layer scr-14"><tspan fill="#FFFFFF">SOHAN THAMMINE</tspan><tspan fill="#00E5FF">%*</tspan></text>
+
+      <!-- Frame 15: 'SOHAN THAMMINEN' revealed -->
+      <text x="0" y="0" class="scramble-layer scr-15"><tspan fill="#FFFFFF">SOHAN THAMMINEN</tspan><tspan fill="#00E5FF">*</tspan></text>
 
       <!-- Final Frame: Fully revealed 'SOHAN THAMMINENI' -->
       <text x="0" y="0" class="scramble-layer scr-final" fill="url(#name-grad)" filter="drop-shadow(0 0 6px rgba(111, 143, 255, 0.6))">SOHAN THAMMINENI</text>
