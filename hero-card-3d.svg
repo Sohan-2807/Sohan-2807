@@ -59,6 +59,11 @@
         <feMergeNode in="SourceGraphic" />
       </feMerge>
     </filter>
+
+    <!-- Clip Window for Rolling Odometer -->
+    <clipPath id="cgpa-clip">
+      <rect x="0" y="4" width="166" height="30" rx="6" />
+    </clipPath>
   </defs>
 
   <style>
@@ -126,49 +131,15 @@
       27%, 100% { opacity: 0; }
     }
 
-    /* CGPA Count-Up Rolling Animation */
-    .cgpa-layer {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, sans-serif;
-      font-size: 28px;
-      font-weight: 900;
-      letter-spacing: 0.5px;
-      animation-duration: 6s;
-      animation-iteration-count: infinite;
-      animation-timing-function: steps(1);
+    /* Rolling Odometer Scroll Animation */
+    .odometer-reel {
+      animation: rollOdometer 6s cubic-bezier(0.12, 0.8, 0.32, 1) infinite;
     }
-    .cgpa-0  { animation-name: cgp0; }
-    .cgpa-1  { animation-name: cgp1; }
-    .cgpa-2  { animation-name: cgp2; }
-    .cgpa-3  { animation-name: cgp3; }
-    .cgpa-4  { animation-name: cgp4; }
-    .cgpa-5  { animation-name: cgp5; }
-    .cgpa-6  { animation-name: cgp6; }
-    .cgpa-7  { animation-name: cgp7; }
-    .cgpa-8  { animation-name: cgp8; }
-    .cgpa-9  { animation-name: cgp9; }
-    .cgpa-10 { animation-name: cgp10; }
-    .cgpa-11 { animation-name: cgp11; }
-    .cgpa-12 { animation-name: cgp12; }
-    .cgpa-13 { animation-name: cgp13; }
-    .cgpa-14 { animation-name: cgp14; }
-    .cgpa-final { animation-name: cgpFinal; }
-
-    @keyframes cgp0  { 0%, 1.4% { opacity: 1; visibility: visible; } 1.5%, 100% { opacity: 0; visibility: hidden; } }
-    @keyframes cgp1  { 0%, 1.4% { opacity: 0; visibility: hidden; } 1.5%, 2.9% { opacity: 1; visibility: visible; } 3.0%, 100% { opacity: 0; visibility: hidden; } }
-    @keyframes cgp2  { 0%, 2.9% { opacity: 0; visibility: hidden; } 3.0%, 4.4% { opacity: 1; visibility: visible; } 4.5%, 100% { opacity: 0; visibility: hidden; } }
-    @keyframes cgp3  { 0%, 4.4% { opacity: 0; visibility: hidden; } 4.5%, 5.9% { opacity: 1; visibility: visible; } 6.0%, 100% { opacity: 0; visibility: hidden; } }
-    @keyframes cgp4  { 0%, 5.9% { opacity: 0; visibility: hidden; } 6.0%, 7.4% { opacity: 1; visibility: visible; } 7.5%, 100% { opacity: 0; visibility: hidden; } }
-    @keyframes cgp5  { 0%, 7.4% { opacity: 0; visibility: hidden; } 7.5%, 8.9% { opacity: 1; visibility: visible; } 9.0%, 100% { opacity: 0; visibility: hidden; } }
-    @keyframes cgp6  { 0%, 8.9% { opacity: 0; visibility: hidden; } 9.0%, 10.4% { opacity: 1; visibility: visible; } 10.5%, 100% { opacity: 0; visibility: hidden; } }
-    @keyframes cgp7  { 0%, 10.4% { opacity: 0; visibility: hidden; } 10.5%, 11.9% { opacity: 1; visibility: visible; } 12.0%, 100% { opacity: 0; visibility: hidden; } }
-    @keyframes cgp8  { 0%, 11.9% { opacity: 0; visibility: hidden; } 12.0%, 13.4% { opacity: 1; visibility: visible; } 13.5%, 100% { opacity: 0; visibility: hidden; } }
-    @keyframes cgp9  { 0%, 13.4% { opacity: 0; visibility: hidden; } 13.5%, 14.9% { opacity: 1; visibility: visible; } 15.0%, 100% { opacity: 0; visibility: hidden; } }
-    @keyframes cgp10 { 0%, 14.9% { opacity: 0; visibility: hidden; } 15.0%, 16.4% { opacity: 1; visibility: visible; } 16.5%, 100% { opacity: 0; visibility: hidden; } }
-    @keyframes cgp11 { 0%, 16.4% { opacity: 0; visibility: hidden; } 16.5%, 17.9% { opacity: 1; visibility: visible; } 18.0%, 100% { opacity: 0; visibility: hidden; } }
-    @keyframes cgp12 { 0%, 17.9% { opacity: 0; visibility: hidden; } 18.0%, 19.4% { opacity: 1; visibility: visible; } 19.5%, 100% { opacity: 0; visibility: hidden; } }
-    @keyframes cgp13 { 0%, 19.4% { opacity: 0; visibility: hidden; } 19.5%, 20.9% { opacity: 1; visibility: visible; } 21.0%, 100% { opacity: 0; visibility: hidden; } }
-    @keyframes cgp14 { 0%, 20.9% { opacity: 0; visibility: hidden; } 21.0%, 22.4% { opacity: 1; visibility: visible; } 22.5%, 100% { opacity: 0; visibility: hidden; } }
-    @keyframes cgpFinal { 0%, 22.4% { opacity: 0; visibility: hidden; } 22.5%, 96.5% { opacity: 1; visibility: visible; } 96.6%, 100% { opacity: 0; visibility: hidden; } }
+    @keyframes rollOdometer {
+      0% { transform: translateY(0px); }
+      22%, 95% { transform: translateY(-304px); }
+      100% { transform: translateY(0px); }
+    }
 
     /* Radar Ping for Active Status */
     .radar-wave {
@@ -415,24 +386,28 @@
     <g transform="translate(16, 104)">
       <rect x="0" y="0" width="166" height="48" rx="10" fill="#0b1329" fill-opacity="0.9" stroke="#4169E1" stroke-width="1.2" />
       
-      <!-- Rolling / Count-Up CGPA Number -->
-      <g transform="translate(74, 32)">
-        <text x="0" y="0" class="cgpa-layer cgpa-0" fill="#00E5FF" text-anchor="middle">0.00</text>
-        <text x="0" y="0" class="cgpa-layer cgpa-1" fill="#00E5FF" text-anchor="middle">0.95</text>
-        <text x="0" y="0" class="cgpa-layer cgpa-2" fill="#00E5FF" text-anchor="middle">1.84</text>
-        <text x="0" y="0" class="cgpa-layer cgpa-3" fill="#00E5FF" text-anchor="middle">2.92</text>
-        <text x="0" y="0" class="cgpa-layer cgpa-4" fill="#00E5FF" text-anchor="middle">4.10</text>
-        <text x="0" y="0" class="cgpa-layer cgpa-5" fill="#00E5FF" text-anchor="middle">5.35</text>
-        <text x="0" y="0" class="cgpa-layer cgpa-6" fill="#00E5FF" text-anchor="middle">6.48</text>
-        <text x="0" y="0" class="cgpa-layer cgpa-7" fill="#00E5FF" text-anchor="middle">7.52</text>
-        <text x="0" y="0" class="cgpa-layer cgpa-8" fill="#00E5FF" text-anchor="middle">8.30</text>
-        <text x="0" y="0" class="cgpa-layer cgpa-9" fill="#00E5FF" text-anchor="middle">8.85</text>
-        <text x="0" y="0" class="cgpa-layer cgpa-10" fill="#00E5FF" text-anchor="middle">9.12</text>
-        <text x="0" y="0" class="cgpa-layer cgpa-11" fill="#00E5FF" text-anchor="middle">9.28</text>
-        <text x="0" y="0" class="cgpa-layer cgpa-12" fill="#00E5FF" text-anchor="middle">9.39</text>
-        <text x="0" y="0" class="cgpa-layer cgpa-13" fill="#00E5FF" text-anchor="middle">9.45</text>
-        <text x="0" y="0" class="cgpa-layer cgpa-14" fill="#00E5FF" text-anchor="middle">9.48</text>
-        <text x="0" y="0" class="cgpa-layer cgpa-final cgpa-glow" fill="#FFFFFF" text-anchor="middle">9.49</text>
+      <!-- Rolling Odometer Reel -->
+      <g clip-path="url(#cgpa-clip)">
+        <g class="odometer-reel" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, sans-serif" font-size="28px" font-weight="900" text-anchor="middle" letter-spacing="0.5px">
+          <!-- Step 0 -->
+          <text x="74" y="27" fill="#00E5FF">0.00</text>
+          <!-- Step 1 -->
+          <text x="74" y="65" fill="#00E5FF">1.45</text>
+          <!-- Step 2 -->
+          <text x="74" y="103" fill="#00E5FF">3.20</text>
+          <!-- Step 3 -->
+          <text x="74" y="141" fill="#00E5FF">5.10</text>
+          <!-- Step 4 -->
+          <text x="74" y="179" fill="#00E5FF">6.85</text>
+          <!-- Step 5 -->
+          <text x="74" y="217" fill="#00E5FF">8.20</text>
+          <!-- Step 6 -->
+          <text x="74" y="255" fill="#00E5FF">9.05</text>
+          <!-- Step 7 -->
+          <text x="74" y="293" fill="#00E5FF">9.38</text>
+          <!-- Final Step: 9.49 in bright white with glowing drop shadow -->
+          <text x="74" y="331" fill="#FFFFFF" filter="drop-shadow(0 0 8px rgba(111, 143, 255, 0.95))">9.49</text>
+        </g>
       </g>
       
       <!-- Star Sparkle Glint on Top Right of Number -->
