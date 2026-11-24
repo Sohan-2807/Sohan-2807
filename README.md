@@ -32,7 +32,7 @@ I enjoy turning complex problems into practical software — my current focus sp
 ```
 
 <div align="center">
-  <img src="./neural-network-3d.svg" alt="3D Deep Neural Network Architecture" width="100%" />
+  <img src="./education-card-3d.svg" alt="Sohan Thammineni - Academic & AI Engineering Profile" width="100%" />
 </div>
 
 ---
