@@ -1,8 +1,10 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050608,50:162B5C,100:4169E1&height=180&section=header&text=Sohan%20Thammineni&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlignY=55&descSize=18" width="100%" alt="Header" />
+
 <div align="center">
 
 # ⚡ Sohan Thammineni
 
-### AI & ML Engineer | Software Developer
+### AI & ML Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=17&duration=2800&pause=900&color=6F8FFF&center=true&vCenter=true&repeat=true&width=650&height=60&lines=Building+intelligent+systems...;Learning+by+building...;Turning+ideas+into+real+products...;Always+learning.+Always+shipping." alt="Animated introduction" />
 
@@ -23,13 +25,24 @@
 
 ### About Me
 
+<table border="0">
+<tr>
+<td width="62%" valign="top">
+
 I'm **Sohan Thammineni**, a B.Tech Computer Science & Engineering student specializing in **Artificial Intelligence & Machine Learning** at **Lovely Professional University**, holding a **9.49 / 10.00 CGPA**.
 
-I enjoy turning complex problems into practical software — my current focus spans **Machine Learning, Data Structures & Algorithms, Software Engineering, and offline-first applications**. I learn by building, experimenting, debugging, and shipping real projects.
+I enjoy turning complex problems into practical software — my current focus spans **Machine Learning, Data Structures & Algorithms, and offline-first intelligent applications**. I learn by building, experimenting, debugging, and shipping real projects.
 
 ```txt
 > Ship it, then perfect it.
 ```
+
+</td>
+<td width="38%" align="center" valign="middle">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="3D Isometric AI Workspace" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -63,6 +76,14 @@ I enjoy turning complex problems into practical software — my current focus sp
     width="100%"
   />
 </picture>
+</div>
+
+---
+
+### ⚡ GitHub Streak & Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohan-2807&theme=tokyonight&border_radius=8&background=050608&ring=4169E1&fire=6F8FFF&currStreakLabel=4169E1" alt="Sohan's GitHub Streak" />
 </div>
 
 ---
@@ -117,6 +138,16 @@ A continuously growing repository of Data Structures, Algorithms, programming fu
 </td>
 </tr>
 </table>
+
+---
+
+### 🎧 Listening To
+
+<div align="center">
+  <a href="https://open.spotify.com">
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Currently Playing" />
+  </a>
+</div>
 
 <div align="center">
 
