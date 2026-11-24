@@ -25,6 +25,32 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Sohan-2807
 
+      - name: Enable continuous rising animation for 3D bars
+        run: |
+          python3 -c '
+          import glob, re
+
+          for file in glob.glob("profile-3d-contrib/*.svg"):
+              with open(file, "r", encoding="utf-8") as f:
+                  content = f.read()
+
+              def replace_two(match):
+                  v1, v2 = match.group(1), match.group(2)
+                  return f"values=\"{v1};{v2};{v2};{v1}\" keyTimes=\"0;0.35;0.92;1\" dur=\"8s\" repeatCount=\"indefinite\""
+
+              def replace_multi(match):
+                  vals = match.group(1).split(";")
+                  all_vals = ";".join(vals + [vals[-1], vals[0]])
+                  return f"values=\"{all_vals}\" dur=\"8s\" repeatCount=\"indefinite\""
+
+              new_content = re.sub(r"values=\"([^\";]+);([^\"]+)\" dur=\"3s\" repeatCount=\"1\"", replace_two, content)
+              new_content = re.sub(r"values=\"([^\"]+;[^\"]+;[^\"]+)\" dur=\"3s\" repeatCount=\"1\"", replace_multi, new_content)
+              if new_content != content:
+                  with open(file, "w", encoding="utf-8") as f:
+                      f.write(new_content)
+                  print(f"Enabled continuous rising animation in {file}")
+          '
+
       - name: Commit & Push 3D SVG
         run: |
           git config --local user.email "action@github.com"
