@@ -70,7 +70,7 @@ I enjoy turning complex problems into practical software — my current focus sp
 ### ⚡ GitHub Streak & Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sohan-2807&theme=tokyonight&border_radius=8&background=050608&ring=4169E1&fire=6F8FFF&currStreakLabel=4169E1" alt="Sohan's GitHub Streak" />
+  <img src="./profile-streak.svg" alt="Sohan's GitHub Streak" />
 </div>
 
 ---

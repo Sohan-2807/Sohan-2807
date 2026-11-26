@@ -51,6 +51,17 @@ jobs:
                   print(f"Enabled continuous rising animation in {file}")
           '
 
+      - name: Update GitHub Streak SVG
+        run: |
+          curl -s --connect-timeout 60 --retry 3 "https://streak-stats.demolab.com/?user=Sohan-2807&theme=tokyonight&border_radius=8&background=050608&ring=4169E1&fire=6F8FFF&currStreakLabel=4169E1&timezone=Asia/Kolkata" -o profile-streak.tmp.svg || true
+          if [ -s profile-streak.tmp.svg ] && grep -q "<svg" profile-streak.tmp.svg; then
+            mv profile-streak.tmp.svg profile-streak.svg
+            echo "Successfully updated profile-streak.svg"
+          else
+            echo "Failed to fetch streak from server, keeping existing SVG"
+            rm -f profile-streak.tmp.svg
+          fi
+
       - name: Commit & Push 3D SVG
         run: |
           git config --local user.email "action@github.com"
