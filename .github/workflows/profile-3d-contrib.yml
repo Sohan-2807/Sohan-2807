@@ -2,7 +2,7 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 * * * *"     # every hour at minute 0
+    - cron: "0 */2 * * *"     # every 2 hours at minute 0
   workflow_dispatch:
   push:
     branches:
@@ -53,7 +53,7 @@ jobs:
 
       - name: Update GitHub Streak SVG
         run: |
-          curl -s --connect-timeout 60 --retry 3 "https://streak-stats.demolab.com/?user=Sohan-2807&theme=tokyonight&border_radius=8&background=050608&ring=4169E1&fire=6F8FFF&currStreakLabel=4169E1&timezone=Asia/Kolkata" -o profile-streak.tmp.svg || true
+          curl -s --connect-timeout 60 --retry 3 -H "Cache-Control: no-cache" "https://streak-stats.demolab.com/?user=Sohan-2807&theme=tokyonight&border_radius=8&background=050608&ring=4169E1&fire=6F8FFF&currStreakLabel=4169E1&timezone=Asia/Kolkata&_ts=$(date +%s)" -o profile-streak.tmp.svg || true
           if [ -s profile-streak.tmp.svg ] && grep -q "<svg" profile-streak.tmp.svg; then
             mv profile-streak.tmp.svg profile-streak.svg
             echo "Successfully updated profile-streak.svg"
